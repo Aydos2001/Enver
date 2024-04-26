@@ -1,0 +1,19 @@
+<svg width="1917.000000" height="1450.000000" viewBox="0 0 1917 1450" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_2_48_dd" x="-0.680237" y="-0.680176" width="1916.893311" height="1450.594482" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="100" result="effect_layerBlur_1"/>
+		</filter>
+		<linearGradient id="paint_linear_2_48_0" x1="1732.942993" y1="224.000000" x2="1732.942993" y2="1623.297974" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FBA81C" stop-opacity="0.258824"/>
+			<stop offset="1.000000" stop-color="#E05688" stop-opacity="0.149020"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_2_48_dd)">
+		<rect id="Rectangle 9522" x="1499.442993" y="224.000000" rx="233.500000" width="467.000000" height="1399.297974" transform="rotate(65.7118 1499.442993 224.000000)" fill="url(#paint_linear_2_48_0)" fill-opacity="0.410000"/>
+	</g>
+</svg>
